@@ -11,7 +11,7 @@ def create_kmers(sequence, kmer_size, make_lower=False):
 	:param kmer_size: The kmer size
 	:return: Returns a list of the kmers
 	"""
-	
+#test	
 	index = 0
 
 	kmers = []
